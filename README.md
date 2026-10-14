@@ -1,16 +1,21 @@
-## Hi there 👋
+# Michael | THIH Systems
 
-<!--
-**thehustleisholy-ship-it/thehustleisholy-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning in public. Building with purpose. Serving through useful work.
 
-Here are some ideas to get you started:
+I'm the builder behind THIH Systems and The Hustle Is Holy™. My allegiance is to Jesus Christ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning Linux and systems fundamentals while developing practical tools for business and ministry. I share the process, the questions, and the evidence as the work develops.
+
+## Enter the workshop
+
+[Build with Michael](https://github.com/thehustleisholy-ship-it/build-with-michael) is the home for my public learning and building journey.
+
+- [Join the conversation](https://github.com/thehustleisholy-ship-it/build-with-michael/discussions)
+- [Start here](https://github.com/thehustleisholy-ship-it/build-with-michael/blob/main/START-HERE.md)
+- [Read the field notes](https://github.com/thehustleisholy-ship-it/build-with-michael/blob/main/journal/README.md)
+- [See the current focus](https://github.com/thehustleisholy-ship-it/build-with-michael/blob/main/NOW.md)
+- [Help improve the work](https://github.com/thehustleisholy-ship-it/build-with-michael/blob/main/CONTRIBUTING.md)
+
+**Current focus:** Linux fluency, understandable automation, and practical problem-solving.
+
+**The Hustle Is Holy™ · Your Hustle. His Glory.**
